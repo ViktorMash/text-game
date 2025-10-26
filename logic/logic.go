@@ -2,7 +2,8 @@ package logic
 
 import (
 	"strings"
-	"text-game/models"
+
+	"github.com/ViktorMash/text-game/models"
 )
 
 var player *models.Player
